@@ -36,7 +36,7 @@ branding, assets or private APIs.
 
 ## Run it
 
-Requires Flutter 3.50+ (Dart 3.14).
+Requires Flutter 3.47.5+ (Dart 3.13.4+). Tested on 3.47.5 and 3.50.0.
 
 ```bash
 flutter pub get
